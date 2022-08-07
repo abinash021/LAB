@@ -25,15 +25,15 @@
 
 ## Experiments
 
-1. [Write a Java program to print 'Hello' on screen and then print your name on a separate line.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-1/Print_hello.java)
+1. [Write a Java program to print 'Hello' on screen and then print your name on a separate line.](https://github.com/abinash021/lab/blob/main/Oops%20in%20Java/exp-1/Print_hello.java)
 
-2. [Write a Java program to print the sum of two numbers.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-2)
+2. [Write a Java program to print the sum of two numbers.](https://github.com/abinash021/lab/blob/main/Oops%20in%20Java/exp-2/Sum_of_two_nums.java)
 
-3. [Write a Java program that takes a number as input and prints its multiplication table upto 10.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-3)
+3. [Write a Java program that takes a number as input and prints its multiplication table upto 10.](https://github.com/abinash021/lab/blob/main/Oops%20in%20Java/exp-3/Multiplication_table_upto_10.java)
 
-4. [Write a Java program to print the area and perimeter of a rectangle.](https://github.com/basu021/oop/blob/main/oop_using_java/exp-4/Print_area_and_perimeter_of_rect.java)
+4. [Write a Java program to print the area and perimeter of a rectangle.](https://github.com/abinash021/lab/blob/main/Oops%20in%20Java/exp-4/Print_area_and_perimeter_of_rect.java)
 
-5. [Write a Java program to swap two variables.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-5)
+5. [Write a Java program to swap two variables.]()
 
 6. [Write a Java program to convert a decimal number to binary number.](https://github.com/basu021/oop/tree/main/oop_using_java/exp-6)
 
