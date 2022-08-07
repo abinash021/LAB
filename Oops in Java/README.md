@@ -15,9 +15,6 @@
 <img src="https://img.shields.io/github/license/basu021/oop?style=flat-square" alt="">
 </p>
 <h1 align="center">
-<br>
-<img src="https://github.com/basu021/oop/blob/main/elements/logo.svg" height="200" align="center" />
-<br>
 </h1>
 
 ### Things to be done
